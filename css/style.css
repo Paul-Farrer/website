@@ -446,7 +446,7 @@ h3 { font-size: var(--fontsize-h3) }
 .portfolio__item2:hover::before {
     content: 'Rail Shooter';
     font-size: 30px;
-    color: var(--colour-accent);
+    color: var(--colour-hover);
     font-weight: 900;
     position: absolute;
     z-index: 10;
