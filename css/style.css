@@ -475,7 +475,7 @@ h3 { font-size: var(--fontsize-h3) }
 }
     
 .portfolio__item4:hover::before {
-    content: 'Text-Based';
+    content: 'Text-Based-Game';
     font-size: 30px;
     color: var(--colour-hover);
     font-weight: 900;
