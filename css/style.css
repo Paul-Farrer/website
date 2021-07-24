@@ -498,7 +498,7 @@ h3 { font-size: var(--fontsize-h3) }
     padding-left: 100px;
 }
     
-.portfolio__item5:hover::before {
+.portfolio__ite5:hover::before {
     content: 'Multi-Player Game';
     font-size: 30px;
     color: var(--colour-hover);
@@ -511,7 +511,7 @@ h3 { font-size: var(--fontsize-h3) }
 }
 
     
-.portfolio__item6:hover::before {
+.portfolio__ite6:hover::before {
     content: 'In-Progress';
     position: absolute; 
     font-size: 30px;
