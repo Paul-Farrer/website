@@ -421,6 +421,18 @@ h3 { font-size: var(--fontsize-h3) }
        text-align: left;
 }
 
+.portfolio__item5 {
+    /*   background: var(--colour-accent);  Use this to debug*/ 
+       overflow: hidden;
+       text-align: left;
+}
+
+.portfolio__item6 {
+    /*   background: var(--colour-accent);  Use this to debug*/ 
+       overflow: hidden;
+       text-align: left;
+}
+
 .portfolio__img {
     transition: transform 750ms cubic-bezier(0.5, 0, 0.5, 1), opacity 250ms linear;
 }
