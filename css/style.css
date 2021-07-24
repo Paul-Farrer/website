@@ -509,13 +509,14 @@ h3 { font-size: var(--fontsize-h3) }
     padding-top: 150px;
     padding-left: 150px;
 }
+
     
 .portfolio__item6:hover::before {
     content: 'In-Progress';
+    position: absolute; 
     font-size: 30px;
-    color: var(--colour-hover);
     font-weight: 900;
-    position: absolute;
+    color: var(--colour-hover);
     z-index: 10;
     text-decoration: underline;
     padding-top: 150px;
