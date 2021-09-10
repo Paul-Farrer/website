@@ -511,7 +511,7 @@ h3 { font-size: var(--fontsize-h3) }
 }
    
 .portfolio__item6:hover::before {
-    content: 'In-Progress';
+    content: '2D Runner';
     position: absolute; 
     font-size: 30px;
     font-weight: 900;
