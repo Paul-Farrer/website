@@ -291,7 +291,7 @@ h3 { font-size: var(--fontsize-h3) }
     background-color: var(--colour-dark);
     background-image: url(../image/1.gif);
     background-size: cover;
-    background-blend-mode: multiply; /* maybe too dark fix later */
+    /*background-blend-mode: multiply; /* maybe too dark fix later */
     color: var(--colour-light);
     text-align: center;
 }
